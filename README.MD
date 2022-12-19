@@ -5,7 +5,7 @@
 into console:**
 
 ```
-pip install 
+pip install CtfReader
 ```
 
 ## Working
